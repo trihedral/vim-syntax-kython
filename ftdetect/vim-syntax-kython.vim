@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.ky set filetype=kython-vim-syntax
+au BufRead,BufNewFile *.ky set filetype=vim-syntax-kython
